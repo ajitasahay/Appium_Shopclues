@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "What are you looking for?"
+     Actual: was "What are you looking for?" <a href="../img/stepsFlow_1rmbha6v33ays45351.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "oats in Breakfast & Diet Foods"
+     Actual: was "oats in Breakfast & Diet Foods" <a href="../img/stepsFlow_oo0nr7gjtyf745352.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>
+Expected: &lt;true&gt;
+     Actual: was &lt;true&gt; <a href="../img/stepsFlow_178h0p3nx5iyd45353.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>
+Expected: a value greater than &lt;0&gt;
+     Actual: &lt;4&gt; was greater than &lt;0&gt; <a href="../img/stepsFlow_voa3547sq52545354.png" target="_blank">[View Screenshot]</a> </div><div  class="info"><span class="info-label">I </span>ProductName is : True Elements Gluten Free Rolled Oats,</div><div  class="info"><span class="info-label">I </span>ProductPrice is : ₹399</div><div  class="info"><span class="info-label">I </span>ProductName is : True Elements Gluten Free Steel Cut Oats 1kg</div><div  class="info"><span class="info-label">I </span>ProductPrice is : ₹400</div><div  class="info"><span class="info-label">I </span>ProductName is : True Elements Steel Cut Oat</div><div  class="info"><span class="info-label">I </span>ProductPrice is : ₹520</div><div  class="info"><span class="info-label">I </span>ProductName is : True Elements Oat Combo(rolled Oat 1 Kg And Steel Cut Oat 1 Kg)</div><div  class="info"><span class="info-label">I </span>ProductPrice is : ₹699</div><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "True Elements Gluten Free Steel Cut Oats 1kg"
+     Actual: was "True Elements Gluten Free Steel Cut Oats 1kg" <a href="../img/stepsFlow_1cga3r8xueko845355.png" target="_blank">[View Screenshot]</a> </div></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="236358" started-at="2018-01-12T12:30:13Z" finished-at="2018-01-12T12:34:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="236358" started-at="2018-01-12T12:30:13Z" finished-at="2018-01-12T12:34:10Z">
+      <class name="com.shopclues.steps.ShopCluesTest">
+        <test-method status="PASS" signature="stepsFlow()[pri:0, instance:com.shopclues.steps.ShopCluesTest@7d898981]" name="stepsFlow" duration-ms="236242" started-at="2018-01-12T18:00:13Z" finished-at="2018-01-12T18:04:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "What are you looking for?"
+     Actual: was "What are you looking for?" <a href="../img/stepsFlow_1rmbha6v33ays45351.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "oats in Breakfast & Diet Foods"
+     Actual: was "oats in Breakfast & Diet Foods" <a href="../img/stepsFlow_oo0nr7gjtyf745352.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>
+Expected: &lt;true&gt;
+     Actual: was &lt;true&gt; <a href="../img/stepsFlow_178h0p3nx5iyd45353.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>
+Expected: a value greater than &lt;0&gt;
+     Actual: &lt;4&gt; was greater than &lt;0&gt; <a href="../img/stepsFlow_voa3547sq52545354.png" target="_blank">[View Screenshot]</a> </div><div  class="info"><span class="info-label">I </span>ProductName is : True Elements Gluten Free Rolled Oats,</div><div  class="info"><span class="info-label">I </span>ProductPrice is : ₹399</div><div  class="info"><span class="info-label">I </span>ProductName is : True Elements Gluten Free Steel Cut Oats 1kg</div><div  class="info"><span class="info-label">I </span>ProductPrice is : ₹400</div><div  class="info"><span class="info-label">I </span>ProductName is : True Elements Steel Cut Oat</div><div  class="info"><span class="info-label">I </span>ProductPrice is : ₹520</div><div  class="info"><span class="info-label">I </span>ProductName is : True Elements Oat Combo(rolled Oat 1 Kg And Steel Cut Oat 1 Kg)</div><div  class="info"><span class="info-label">I </span>ProductPrice is : ₹699</div><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "True Elements Gluten Free Steel Cut Oats 1kg"
+     Actual: was "True Elements Gluten Free Steel Cut Oats 1kg" <a href="../img/stepsFlow_1cga3r8xueko845355.png" target="_blank">[View Screenshot]</a> </div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- stepsFlow -->
+      </class> <!-- com.shopclues.steps.ShopCluesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

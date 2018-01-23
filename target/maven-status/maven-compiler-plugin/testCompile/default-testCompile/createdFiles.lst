@@ -1,0 +1,10 @@
+com\shopclues\pages\ProductdetailsPage.class
+com\shopclues\pages\CartTestPage.class
+com\shopclues\StepsBackLog.class
+com\shopclues\pages\CatogoryPage.class
+com\shopclues\pages\HomePage.class
+com\shopclues\bean\ProductInfoBean.class
+com\shopclues\productinfo\ProductDetails.class
+com\shopclues\pages\ProductList.class
+com\shopclues\pages\Addtocartpage.class
+com\shopclues\steps\ShopCluesTest.class
